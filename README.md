@@ -42,6 +42,7 @@ This project investigates:
 ```text
 marketplace-pricing-analytics/
 ├── analysis/
+│   ├── city_revenue_analysis.sql
 │   ├── demand_analysis.sql
 │   ├── pricing_experiment.sql
 │   ├── revenue_analysis.sql
@@ -58,10 +59,12 @@ marketplace-pricing-analytics/
 │   ├── plot_imbalance.py
 │   └── plot_experiment.py
 ├── scripts/
+│   ├── analyze_pricing_experiment.py
 │   ├── generate_data.py
 │   ├── generate_observations.py
 │   ├── generate_rides.py
 │   ├── clustered_pricing_analysis.py
+│   ├── test_connection.py 
 │   └── randomization_inference.py
 ├── .env
 ├── .gitignore
