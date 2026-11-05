@@ -1,0 +1,7 @@
+city_name,experiment_group,completed_rides,customer_cancellations,driver_cancellations,unfulfilled_requests,total_ride_records
+Bengaluru,Control,27111,5506,1455,2404,36476
+Bengaluru,Treatment,5847,1173,334,471,7825
+Mumbai,Control,33317,6933,1725,2995,44970
+Mumbai,Treatment,7504,1574,414,600,10092
+Pune,Control,22850,4543,1270,1675,30338
+Pune,Treatment,5244,1052,258,372,6926

@@ -1,0 +1,16 @@
+city_name,zone_name,total_searches,total_requests,avg_hourly_requests,avg_available_drivers,demand_supply_ratio
+Mumbai,Mumbai_Zone_2,17466,11076,5.13,11.09,0.462
+Mumbai,Mumbai_Zone_3,17418,11152,5.16,11.23,0.460
+Mumbai,Mumbai_Zone_4,17383,11032,5.11,11.17,0.457
+Mumbai,Mumbai_Zone_1,17511,11047,5.11,11.21,0.456
+Mumbai,Mumbai_Zone_5,17190,10755,4.98,11.17,0.446
+Bengaluru,Bengaluru_Zone_2,14198,9095,4.21,9.55,0.441
+Bengaluru,Bengaluru_Zone_4,13914,8869,4.11,9.67,0.425
+Bengaluru,Bengaluru_Zone_3,13826,8779,4.06,9.64,0.422
+Bengaluru,Bengaluru_Zone_5,13746,8819,4.08,9.71,0.420
+Bengaluru,Bengaluru_Zone_1,13789,8739,4.05,9.70,0.417
+Pune,Pune_Zone_4,11758,7554,3.50,10.44,0.335
+Pune,Pune_Zone_2,11814,7529,3.49,10.42,0.334
+Pune,Pune_Zone_5,11749,7493,3.47,10.52,0.330
+Pune,Pune_Zone_3,11618,7321,3.39,10.45,0.324
+Pune,Pune_Zone_1,11635,7367,3.41,10.54,0.324

@@ -1,0 +1,7 @@
+city_name,experiment_group,total_searches,actual_revenue,revenue_per_search
+Bengaluru,Control,55924,4618431.88,82.58
+Bengaluru,Treatment,13549,1098368.16,81.07
+Mumbai,Control,69306,5672201.74,81.84
+Mumbai,Treatment,17662,1404160.56,79.50
+Pune,Control,46601,3885853.84,83.39
+Pune,Treatment,11973,983629.26,82.15
