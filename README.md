@@ -66,8 +66,10 @@ marketplace-pricing-analytics/
 │   ├── clustered_pricing_analysis.py
 │   ├── test_connection.py 
 │   └── randomization_inference.py
-├── .env
+├── .env.example
 ├── .gitignore
+├── requirements.txt
+├── requirements-lock.txt
 └── README.md
 ```
 
